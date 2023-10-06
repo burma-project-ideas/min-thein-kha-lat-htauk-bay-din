@@ -1,4 +1,4 @@
-# MinTheinKha-LatHtaukBayDin
+# Min Thein Kha - Lat Htauk Bay Din
 ![Alt text](https://github.com/sannlynnhtun-coding/MinTheinKha-LatHtaukBayDin/blob/main/MinTheinKha%20LatHtaukBayDin%20Flow.jpg)
 
 1. စစချင်း Page မှာ မေးခွန်းနဲ့ ပတ်သက်တာတွေ ပြမယ့် page ရှိပါမယ် Question JSON ကနေ ထုတ်ပြနိုင်ပါတယ် Pagination ထည့်လိုပါက ထည့်နိုင်ပါတယ်
