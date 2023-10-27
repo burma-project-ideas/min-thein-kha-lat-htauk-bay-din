@@ -18,8 +18,7 @@ Summary
 - [Arkar Myo Min (JavaScript)](https://github.com/akmm-dev)
 - [Peter (React.js)](https://github.com/peterlianpi/mintheinkha-lathtaukbaydin)
 - [Lin Thit (React&Node Express)](https://github.com/LinThit27/MinTheinKha-React-Node-Json.git)
-- [Ye Yint Myint Myat (Node.js, Express.js, ejs, javascript)] 
-  [](url)(https://github.com/YeYint3424/MinTheinKha.git)
+- [Ye Yint Myint Myat (Node.js, Express.js, ejs, javascript)](https://github.com/YeYint3424/MinTheinKha.git)
 - [Phone Myat Thu (Node.js, Express.js)](https://github.com/HponeMyatThu/HMTMinTheinKha)
 - [Shine Wai Tun (VueJs,Node.js,Express.js)](https://github.com/shinewwaihtun/BayDinApp.git)
 - [Lin Htet (Node Js, Express Js ,Vue 2)](https://github.com/LinnHtet29/lattaulkbaydin.git)
