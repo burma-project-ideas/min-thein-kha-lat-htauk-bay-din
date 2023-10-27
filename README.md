@@ -14,4 +14,4 @@ Summary
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/MinTheinKha-LatHtaukBayDin/main/MinTheinKha%20LatHtaukBayDin%20Mind%20Map.PNG)
 
 - [Yae Linn Naing (Next.js)](https://github.com/San-Linn-Phyo/mintheinkha)
-- [Yae Linn Naing (Next.js)](https://github.com/San-Linn-Phyo/mintheinkha)
+- [Sai Zayar Htet (JavaScript)](https://github.com/SaiZayarHtet7/lat_htauk_bay_din?fbclid=IwAR2v_tT5GyzDyKS5yQ9kczNVGMSCrxwkH5ZpR9PV_i2OfkQVg8zaF5BANw8)
