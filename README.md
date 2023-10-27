@@ -22,8 +22,7 @@ Summary
 - [Phone Myat Thu (Node.js, Express.js)](https://github.com/HponeMyatThu/HMTMinTheinKha)
 - [Shine Wai Tun (VueJs,Node.js,Express.js)](https://github.com/shinewwaihtun/BayDinApp.git)
 - [Lin Htet (Node Js, Express Js ,Vue 2)](https://github.com/LinnHtet29/lattaulkbaydin.git)
-- [Min Bhone Thant (Next Js, Node Js, Express, Redux Toolkit, TypeScript, Material Tailwind)] 
-  (https://github.com/Antaraes/BayDinApp)
+- [Min Bhone Thant (Next Js, Node Js, Express, Redux Toolkit, TypeScript, Material Tailwind)](https://github.com/Antaraes/BayDinApp)
 - [Kaung Si Thu (React)](https://github.com/kaungsithu202/bay-din)
 - [Minn Thu (React Native)](https://github.com/thukyaw11/baydin)
 - [A Mon (React)](https://github.com/Amoz19/BayDinApp)
