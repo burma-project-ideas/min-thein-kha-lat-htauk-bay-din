@@ -29,4 +29,5 @@ Summary
 - [Thu Ta Nyan (React.Js)](https://github.com/thutashein/MinTheinKha)
 - [THa Soe (Flutter)](https://github.com/THaSoe/baydin_project)
 - [Aung Kaung Myat (React Native)](https://github.com/aungkaungmyat9504/bay-din)
+- [Lin Thit (React Native)](https://github.com/LinThit27/MinThienKha_ReactNative)
   
