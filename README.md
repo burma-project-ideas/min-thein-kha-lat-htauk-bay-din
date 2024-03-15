@@ -31,6 +31,7 @@ Summary
 19. [Kyaw Kyaw Hein (React + Vite)](https://github.com/KyawKyawHein/Baydin)
 20. [Htar Htar Ei (React + Vite)](https://github.com/htarhtarei670/mintheinkhabaydin)
 21. [Phyo Wanna Kyaw (React + Vite)](https://github.com/Phyowunnakyaw/MinTheinKha_LatHtaukBayDin)
+22. [Saw Thomas (React + Vite + RTK Query)](https://github.com/ThomasNine/lat-htauk-bay-din-react-rtk-)
 
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/MinTheinKha-LatHtaukBayDin/main/MinTheinKha%20LatHtaukBayDin%20Flow.jpg)
 
