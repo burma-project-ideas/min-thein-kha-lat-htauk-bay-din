@@ -17,7 +17,7 @@ Summary
 5. [Lin Thit (React.js,Node.js, Express.js)](https://github.com/LinThit27/MinTheinKha-React-Node-Json.git)
 6. [Ye Yint Myint Myat (Node.js, Express.js, ejs, javascript)](https://github.com/YeYint3424/MinTheinKha.git)
 7. [Phone Myat Thu (Node.js, Express.js)](https://github.com/HponeMyatThu/HMTMinTheinKha)
-8. [Shine Wai Tun (VueJs,Node.js,Express.js)](https://github.com/shinewwaihtun/BayDinApp.git)
+8. [Shine Wai Tun (VueJs, Node.js, Express.js)](https://github.com/shinewwaihtun/BayDinApp.git)
 9. [Lin Htet (Node Js, Express Js ,Vue 2)](https://github.com/LinnHtet29/lattaulkbaydin.git)
 10. [Min Bhone Thant (Next Js, Node Js, Express, Redux Toolkit, TypeScript, Material Tailwind)](https://github.com/Antaraes/BayDinApp)
 11. [Kaung Si Thu (React.Js)](https://github.com/kaungsithu202/bay-din)
@@ -33,6 +33,7 @@ Summary
 21. [Phyo Wanna Kyaw (React + Vite)](https://github.com/Phyowunnakyaw/MinTheinKha_LatHtaukBayDin)
 22. [Saw Thomas (React + Vite + RTK Query)](https://github.com/ThomasNine/lat-htauk-bay-din-react-rtk-)
 23. [Aung Yarzar Hein (React Native)](https://github.com/AungYarzarHein/badinsayar)
+24. [Thein Naing (React.js)](https://github.com/Danny7Kri3s/Min-Thein-Kha-Bay-Din)
 
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/MinTheinKha-LatHtaukBayDin/main/MinTheinKha%20LatHtaukBayDin%20Flow.jpg)
 
